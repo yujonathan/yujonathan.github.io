@@ -4,17 +4,17 @@ title: Jonathan Yu
 subtitle: 
 email: jyu.ucsd@gmail.com
 #description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-description: A scientist who loves <br /> solving tough problems
+description: A scientist who enjoys <br /> solving tough problems
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 9500 Gilman Dr., M/C 0417
+street_address:
 city: San Diego
 state: CA
-zip_code: 92093-0417
+zip_code: 92122
 country: United States of America
-phone: (858) 534-0704
+#phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
