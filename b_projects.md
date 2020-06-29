@@ -1,0 +1,30 @@
+---
+layout: page
+title: Projects
+description: Science, data, coding, and hardware
+image: assets/images/pic11.jpg
+nav-menu: true
+show_tile: true
+---
+
+
+
+  {% for post in site.posts %}
+      {% if post.title != 404 %}
+  <ul>
+     <a href="{{ post.url }}">  <h2>{{ post.title }}</h2> </a>
+      {{post.description}}
+      <br/>
+      <a href="{{ post.url }}">
+        <img src="{{post.image}}" alt="project image" style="width:28%;height:28%;"> 
+      </a>
+
+<hr>
+
+
+
+    
+    </ul>
+      {% endif %}
+  {% endfor %}
+
