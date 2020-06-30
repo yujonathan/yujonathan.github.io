@@ -1,55 +1,46 @@
 ---
 layout: page
-title: curriculum vitae
+title: Curriculum Vitae
 description: Publications and more
-image: assets/images/pic02.jpg
+image: assets/images/cal.jpg
 nav-menu: true
 ---
 
 # Jonathan H. Yu, Ph.D
 
-#### I love finding solutions to tough problems using a multi-disciplinary approach. Some of my specialties are physics, coding, fusion energy, plasma physics, lasers, material science, optics, imaging, optical spectroscopy, mass spectrometry, photography, and riding waves. I find the best results come from striking a balance between big-picture thinking, attention to detail, and risk taking.
+#### I love finding solutions to tough problems using a multi-disciplinary approach. Some of my specialties are machine learning, physics, coding, fusion energy, plasma physics, lasers, optics, imaging, optical spectroscopy, mass spectrometry, photography, and riding waves. I find the best results come from striking a balance between big-picture thinking, attention to detail, and risk taking.
 
-#### My core skills include critical thinking, problem solving, creative thinking, interpersonal skills, Python programming (Numpy, Matplotlib, Pandas, Scikit-learn), communication, collaboration, data analysis, modeling, machine learning, and data visualization.
+#### My core skills include critical thinking, problem solving, creative thinking, interpersonal skills, Python programming (Numpy, Matplotlib, Pandas, PyTorch, Scikit-learn), data analysis, data modeling, machine learning, data visualization, communication, and collaboration.
 
 
 
 <br>
+<a href="#summary"> Professional Summary</a><br />
 <a href="#education"> Education</a><br />
-<a href="#grants">Grants Awarded</a><br />
 <a href="#experience">Professional Experience</a><br />
+<a href="#grants">Grants Awarded</a><br />
 <a href="#publications">Publications</a><br />
 <a href="#extra">Extracurricular</a><br />
+
+
+<h8 id = "summary">  </h8>
+<br>
+# Professional Summary
+* Initiated and coded world's first deep neural networks for analyzing data from multi-million dollar ion beam facilities, and quantified uncertainty of the neural network predictions.
+* Awarded $445,000 grant and successfully developed the world's first time-resolved laser based material diagnostic, and wrote complete set of Python code for data acquisition, preprocessing, and analysis.
+* Successfully designed, installed, and wrote analysis code for a fast camera diagnostic that produced 39 peer reviewed journal articles and over 80 scientific conference presentations from research at the top U.S. fusion science facility with budget of $120M/yr budget.
+* Designed and executed collaborative research projects, and contributed to winning over $10M in grants to perform state of the art physics research.
+
+
 
 
 
 <h8 id = "education">  </h8>
 <br>
 # Education
-* Ph.D., Plasma Physics, University of California San Diego, 2004, Advisor: C.F. Driscoll
-* M.S., Physics, University of California San Diego, 2000
-* B.A., Physics, University of California Berkeley, 1995
-
-<a href="#top">Go to top</a>
-
-
-
-<h8 id = "grants">  </h8>
-<br>
-# Grants Awarded
-
-* **$240,000** Department of Energy (DOE) grant for the development of laser-based material diagnostics (2019)
-* **$220,000** DOE grant for research and development of laser induced desorption spectroscopy (LIDS) (2017)
-* **$2,200,000** DOE grant to perform novel research on the interactions between plasma and materials in the UCSD PISCES lab, contributor (2018)
-* **$1,900,000** DOE grant for plasma-material interaction research in the UCSD PISCES lab, contributor (2015)
-* **$400,000** grant from ITER, the international experimental fusion reactor, to test techniques for the safe operation of a fusion power plant using novel ideas for in-situ cleaning of reactor wall materials (2013)
-* **$1,700,000** DOE grant for plasma-material interaction research in the UCSD PISCES lab, contributor (2012)
-* **$1,500,000** DOE grant for plasma-material interaction research in the UCSD PISCES lab, contributor (2009)
-* **$200,000** American Recovery and Reinvestment Act grant for development of fast imaging hardware, experimental design and execution, analysis, and programming analysis software at the DIII-D national fusion facility (2009)
-* **$1,400,000** DOE grant for plasma-material interaction research in the UCSD PISCES lab, contributor (2006)
-* **$850,000** Small Business Innovation Research (SBIR) Phase I and Phase II grants (2001-2002)
-
-<a href="#top">Go to top</a>
+* Ph.D., Physics, University of California San Diego
+* M.S., Physics, University of California San Diego
+* B.A., Physics, University of California Berkeley
 
 
 
@@ -58,7 +49,7 @@ nav-menu: true
 # Professional Experience
 
 
-### Scientist, Center for Energy Research, UC San Diego, 2011 - present
+### Scientist, Center for Energy Research, UC San Diego, 2012 - present
 * Designed experiments on plasma-material interactions to push fusion energy closer to a viable energy source
 * Pioneered novel diagnostics for materials and plasmas, including laser induced desorption spectroscopy and fast imaging
 * Led investigations on plasma-material interactions such as hydrogen storage in materials and surface morphology 
@@ -90,10 +81,24 @@ nav-menu: true
 * Made first observations and measurements of fluid echoes in a pure electron plasma. Wrote code for image analysis and first-principles modeling. Through detailed comparison to theory, explicitly demonstrated the reversible nature of spatial Landau damping. This work touched on deep questions regarding the asymmetry of time.
 * Designed and performed experiments with the trapped-particle diocotron mode
 
-### Laser Engineering Technician, AlliedSignal Corporation (now merged with Honeywell) at Lawrence Livermore National Laboratory, 1996 – 1998
-* Constructed and maintained Nd:YAG and copper vapor lasers for the Atomic Vapor Laser Isotope Separation (AVLIS) project, with the goal of purifying uranium using finely-tuned lasers
 
-<a href="#top">Go to top</a>
+
+<h8 id = "grants">  </h8>
+<br>
+# Grants Awarded
+
+* **$245,000** Department of Energy (DOE) grant for the development of laser-based material diagnostics (2019)
+* **$200,000** DOE grant for research and development of laser induced desorption spectroscopy (LIDS) (2017)
+* **$2,200,000** DOE grant to perform novel research on the interactions between plasma and materials at UC San Diego, contributor (2018)
+* **$1,900,000** DOE grant for plasma-material interaction research at UC San Diego, contributor (2015)
+* **$400,000** grant from ITER, the international experimental fusion reactor, to test techniques for the safe operation of a fusion power plant using novel ideas for in-situ cleaning of reactor wall materials (2013)
+* **$1,700,000** DOE grant for plasma-material interaction research at UC San Diego, contributor (2012)
+* **$1,500,000** DOE grant for plasma-material interaction research at UC San Diego, contributor (2009)
+* **$200,000** American Recovery and Reinvestment Act grant for development of fast imaging hardware, experimental design and execution, analysis, and programming analysis software at the DIII-D national fusion facility (2009)
+* **$1,400,000** DOE grant for plasma-material interaction research at UC San Diego, contributor (2006)
+* **$850,000** Small Business Innovation Research (SBIR) Phase I and Phase II grants (2001-2002)
+
+
 
 
 <h8 id = "extra">  </h8>
@@ -105,9 +110,6 @@ nav-menu: true
 * Surfer, snowboarder, travel junkie
 
 <a href="#top">Go to top</a>
-
-
-
 
 <h8 id = "publications">  </h8>
 <br>
@@ -293,3 +295,4 @@ nav-menu: true
 
 90.	﻿Kabantsev, A.A., Driscoll, C.F., Hilsabeck, T.J., O’Neil, T.M., Yu, J.H.  <a href = " {{ site.url }}/assets/publications/1.pdf ">Trapped-Particle Asymmetry Modes in Single-Species Plasmas,</a>  Phys. Rev. Lett. 87, 225002 (2001).
 
+<a href="#top">Go to top</a>

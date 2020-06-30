@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Projects
-description: Science, data, coding, and hardware
-image: assets/images/pic11.jpg
+description: Science, machine learning, data analytics, and coding
+image: assets/images/fusion_plasma2.jpg
 nav-menu: true
 show_tile: true
 ---

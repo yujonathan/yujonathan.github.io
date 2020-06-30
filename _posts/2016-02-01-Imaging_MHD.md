@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Novel signal processing to visualize core plasma waves in a tokamak
+title: Novel signal processing to visualize plasma waves in a tokamak
 description: For the first time, core magnetohydrodynamic activity was recorded with a high speed visible camera. 
 
 image: assets/images/MHD_1.PNG
@@ -10,7 +10,6 @@ image: assets/images/MHD_1.PNG
 Plasma waves and instabilities are important areas of fusion energy research because they can lower the plasma pressure and reduce fusion performance. I have achieved the first-ever fast camera images of core plasma mode structure and dynamics by detecting visible plasma emission in the DIII-D tokamak. The ability to visualize the core plasma using fast cameras allows the study of waves and instabilities in unprecedented detail.
 
 ![Tearing mode]({{ site.url | absolute_path}}/assets/images/MHD_2_TM.PNG){:height="50%" width="50%"}
-
  <figcaption>
  	Figure 1 - A novel signal processing technique is used to create these images. The time sequence from each camera pixel is Fourier transformed and then filtered (only certain frequencies are retained). The resulting images show (a) the Fourier amplitude, (b) phase, and (c) a snapshot of the mode structure. The fundamental rotation frequency of the magnetic islands is retained in (a) - (c) which shows poloidal mode structure of m = 2, and the first harmonic frequency is retained in (d) - (f) showing m = 4 structure.
  </figcaption>
