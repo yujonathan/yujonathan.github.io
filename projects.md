@@ -5,6 +5,7 @@ description: Science, machine learning, data analytics, and coding
 image: assets/images/fusion_plasma2.jpg
 nav-menu: true
 show_tile: true
+
 ---
 
 
@@ -15,7 +16,7 @@ show_tile: true
       {{post.description}}
       <br/>
       <a href="{{ post.url }}">
-        <img src="{{post.image}}" alt="project image" style="width:28%;height:28%;"> 
+        <img src="{{site.url}}{{post.image}}" alt="project image" style="width:28%;height:28%;"> 
       </a>
 
 <hr>

@@ -20,8 +20,6 @@ country: United States of America
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 3
 
-# don't show dates in post URLs
-permalink: /:title/
 
 # social settings
 500px_url:
@@ -34,6 +32,10 @@ linkedin_url: https://www.linkedin.com/in/jonathanhyu
 pinterest_url:
 slack_url:
 #twitter_url: https://twitter.com/andrewbanchich
+
+# use title only in post's URLs
+permalink: /:title/
+#permalink: /:categories/:year/:title/
 
 # build settings
 markdown: kramdown
