@@ -8,7 +8,6 @@ show_tile: true
 ---
 
 
-
   {% for post in site.posts %}
       {% if post.title != 404 %}
   <ul>
@@ -23,8 +22,7 @@ show_tile: true
 
 
 
-    
-    </ul>
+  </ul>
       {% endif %}
   {% endfor %}
 
