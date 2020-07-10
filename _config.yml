@@ -20,6 +20,9 @@ country: United States of America
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 3
 
+# don't show dates in post URLs
+permalink: /:title/
+
 # social settings
 500px_url:
 facebook_url:
