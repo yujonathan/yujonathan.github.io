@@ -21,7 +21,6 @@ show_tile: true
 <hr>
 
 
-
   </ul>
       {% endif %}
   {% endfor %}
