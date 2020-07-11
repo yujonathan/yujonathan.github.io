@@ -15,8 +15,8 @@ show_tile: true
      <a href="{{ post.url }}">  <h2>{{ post.title }}</h2> </a>
       {{post.description}}
       <br/>
-      <a href="{{ post.url }}">
-        <img src="{{site.url}}{{post.image}}" alt="project image" style="width:28%;height:28%;"> 
+      <a href="{{ post.url }}"> 
+        <img src="{{post.image}}" alt="project image" style="width:28%;height:28%;"> 
       </a>
 
 <hr>
