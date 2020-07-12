@@ -34,7 +34,7 @@ slack_url:
 #twitter_url: https://twitter.com/andrewbanchich
 
 # use title only in post's URLs
-#permalink: /:title/
+permalink: /:title/
 #permalink: /:categories/:year/:title/
 
 # build settings
