@@ -56,7 +56,9 @@ Residual Networks (ResNets) are a modified version of CNNs and solve the problem
 <figure>
   <img src="{{site.url}}/assets/images/training_data.PNG" alt="Training images" height="80%" width = "80%"/>
   <figcaption>
-  	<em>Figure 4 - Random selection of training data and the image labels (Lake, Ocean, Surfing, Tubes). Surprisingly, even with a relatively small amount of training data, transfer learning can properly classify these types of images with high accuracy. In addition, the network generally learns that hollow waves belong in the Tubes category and not the Surfing category, even when there is a surfer riding the hollow wave.</em>
+  	<em>
+      Figure 4 - Random selection of training data and the image labels (Lake, Ocean, Surfing, Tubes). Surprisingly, even with a relatively small amount of training data, transfer learning can properly classify these types of images with high accuracy.
+    </em>
   </figcaption>
 </figure>
 </center>

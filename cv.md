@@ -4,6 +4,7 @@ title: Curriculum Vitae
 description: Publications and more
 image: assets/images/cal.jpg
 nav-menu: true
+order: 3
 ---
 
 # Jonathan H. Yu, Ph.D
@@ -19,8 +20,9 @@ nav-menu: true
 <a href="#education"> Education</a><br />
 <a href="#experience">Professional Experience</a><br />
 <a href="#grants">Grants Awarded</a><br />
-<a href="#publications">Publications</a><br />
 <a href="#extra">Extracurricular</a><br />
+<a href="#publications">Publications</a><br />
+
 
 
 <h8 id = "summary">  </h8>

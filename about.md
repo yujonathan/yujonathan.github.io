@@ -4,6 +4,7 @@ title: About Me
 description: What makes me tick
 image: assets/images/tahoe.jpg
 nav-menu: true
+order: 1
 ---
 
 ![Jonathan_mug_shot]({{ site.url | absolute_path}}/assets/images/Jonathan_mug.jpg){:height="180px"}

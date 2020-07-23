@@ -3,7 +3,7 @@ layout: post
 title: Novel signal processing to visualize plasma waves in a tokamak
 description: For the first time, core magnetohydrodynamic activity was recorded with a high speed visible camera. 
 
-image: assets/images/MHD_1.PNG
+image: assets/images/movie21_loop240.gif
 ---
 
 ### Motivation
@@ -60,11 +60,23 @@ Figure 3 shows the structure of a tearing mode, which is caused by a perturbatio
 
 <center>
 <figure>
-  <img src="{{site.url}}/assets/images/MHD_3_TM.PNG" alt="Synthetic camera" height="30%" width = "30%"/>
+  <img src="{{site.url}}/assets/images/MHD_3a.PNG" alt="Synthetic camera" height="30%" width = "30%"/>
   <figcaption>
-  	<em>
-  		Figure 4 - A model of plasma light emission from tearing modes is used to create synthetic camera images (shown in the left column), which are compared to real camera data (right hand column).
-  	</em>
+    <em>
+      Figure 4 - A model of plasma light emission from tearing modes is used to create synthetic camera images (shown in the left column), which are compared to real camera data (right hand column).
+    </em>
+  </figcaption>
+</figure>
+</center>
+<p>&nbsp;</p>
+
+<center>
+<figure>
+  <img src="{{site.url}}/assets/images/movie21_loop240.gif" alt="NTM movie" height="20%" width = "20%"/>
+  <figcaption>
+    <em>
+      Figure 5 - Movie of the perturbed plasma emission caused by distorted magnetic flux surfaces from a neoclassical tearing mode.
+    </em>
   </figcaption>
 </figure>
 </center>
@@ -82,7 +94,7 @@ Another plasma instability which I had the privilege of imaging for the first ti
   <img src="{{site.url}}/assets/images/MHD_4.PNG" alt="Sawtooth crash" height="40%" width = "40%"/>
   <figcaption>
   	<em>
-  		Figure 5 - (a) The electron temperature as a funcion of time during a sawtooth crash. The vertical lines show the times of the images. (b) Snapshots of the Fourier-filtered (15 kHz) component of visible light from the plasma.
+  		Figure 6 - (a) The electron temperature as a funcion of time during a sawtooth crash. The vertical lines show the times of the images. (b) Snapshots of the Fourier-filtered (15 kHz) component of visible light from the plasma.
   	</em>
   </figcaption>
 </figure>
