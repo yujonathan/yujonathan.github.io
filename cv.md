@@ -58,14 +58,14 @@ order: 3
 * Simulating plasma power exhaust in current and next-generation tokamaks
 * Iterating on design concepts and modeling for plasma divertors using target shaping and closure
 * Exploring magnetic geometries to optimize power dissipation
-* Implementing higher accuracy in models including plasma drifts
+* Implementing higher accuracy in computer models including plasma drifts
 
 ### Scientist, Center for Energy Research, UC San Diego, 2012 - 2020
 * Designed experiments on plasma-material interactions to push fusion energy closer to a viable energy source
 * Pioneered novel diagnostics for materials and plasmas, including laser induced desorption spectroscopy and fast imaging
 * Led investigations on plasma-material interactions such as hydrogen storage in materials and the impact of extreme heat pulses on surface morphology 
 * Developed software for optical spectroscopy, pyrometry, and ion/electron surface analysis
-* Designed, procured, and installed high power laser systems for cutting edge material science research
+* Designed, procured, and commissioned high power laser systems for cutting edge material science research
 
 ### Co-founder and CEO, Cornsoft, 2010 - 2018
 * Designed and developed Smart Seat, the first seating chart and attendance iOS app for teachers
@@ -89,7 +89,7 @@ order: 3
 
 ### Researcher for Doctoral Study, Department of Physics, UCSD, 1999 – 2004
 * Research was published and highlighted by the world's premier physics letter journal *Physical Review Letters*
-* Achieved first observations and measurements of fluid echoes in a pure electron plasma. Wrote code for image analysis and first-principles modeling. Through detailed comparison to theory, explicitly demonstrated the reversible nature of spatial Landau damping. This work touched on deep questions regarding the asymmetry of time.
+* Achieved first observations and measurements of fluid echoes in a pure electron plasma. Wrote code for image analysis and first-principles modeling. Through detailed comparison to theory, explicitly demonstrated the reversible nature of spatial Landau damping, which touched on deep questions regarding the asymmetry of time.
 
 
 
