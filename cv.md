@@ -66,8 +66,8 @@ order: 3
 * Developed software for optical spectroscopy, pyrometry, and ion/electron surface analysis
 * Designed, procured, and commissioned high power laser systems for cutting edge material science research
 
-### Co-founder and CEO, Cornsoft, 2010 - 2018
-* Designed and developed Smart Seat, the first seating chart and attendance iOS app for teachers
+### Co-founder, Cornsoft, 2010 - 2018
+* Designed and developed Smart Seat, the first seating chart and attendance iOS app for teachers which has been used by over 10,000 people
 * Designed and developed PixSort, a photo organization app based on automatic and user-generated metadata tags
 
 ### Collaborating Scientist, DIII-D National Tokamak Facility, General Atomics, 2006 - 2011
