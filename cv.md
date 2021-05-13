@@ -20,7 +20,6 @@ order: 3
 <a href="#education"> Education</a><br />
 <a href="#experience">Professional Experience</a><br />
 <a href="#grants">Grants Awarded</a><br />
-<a href="#extra">Extracurricular</a><br />
 <a href="#publications">Publications</a><br />
 
 
@@ -109,14 +108,6 @@ order: 3
 * **$850,000** Small Business Innovation Research (SBIR) Phase I and Phase II grants (2001-2002)
 
 
-
-
-<h8 id = "extra">  </h8>
-<br>
-# Extracurricular
-* Lead Navigator of Adventure Guides, a family camping group with the YMCA
-* Multiple science outreach events with the Center for Energy Research at UC San Diego
-* Volunteer at the Fleet Science Center
 
 <a href="#top">Go to top</a>
 
