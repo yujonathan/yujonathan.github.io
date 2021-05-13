@@ -9,9 +9,9 @@ order: 3
 
 # Jonathan H. Yu, Ph.D
 
-#### I love finding solutions to tough problems using a multi-disciplinary approach. Some of my specialties are machine learning, physics, coding, fusion energy, plasma physics, lasers, optics, imaging, optical spectroscopy, mass spectrometry, photography, and riding waves. I find the best results come from striking a balance between big-picture thinking, attention to detail, and risk taking.
+#### I love finding solutions to tough problems using a multi-disciplinary approach. Some of my specialties are plasma physics, coding, fusion energy, machine learning, lasers, optics, imaging, optical spectroscopy, mass spectrometry, photography, and riding waves. I find the best results come from striking a balance between big-picture thinking, attention to detail, and risk taking.
 
-#### My core skills include critical and creative thinking, problem solving, interpersonal skills, Python programming (Numpy, Matplotlib, Pandas, PyTorch, Scikit-learn), data analysis, data modeling, data visualization, communication, and collaboration.
+#### My core skills include critical and creative thinking, problem solving, interpersonal skills, Python programming, physics simulations, data analysis, data modeling, data visualization, communication, and collaboration.
 
 
 
@@ -28,6 +28,7 @@ order: 3
 <h8 id = "summary">  </h8>
 <br>
 # Professional Summary
+* Perfomed high fidelity computer simulations of power exhaust in magnetically confined plasma devices known as tokamaks.
 * Initiated and coded world's first deep neural networks for analyzing data from multi-million dollar ion beam facilities, and quantified uncertainty of the neural network predictions.
 * Led the successful development of world's first time-resolved laser based material diagnostic after winning $445,000 in grant awards, and wrote complete set of Python code for data acquisition, preprocessing, and analysis.
 * Successfully designed, installed, and wrote analysis code for a fast camera diagnostic at the top U.S. fusion science facility with budget of $120M/year.
@@ -53,8 +54,13 @@ order: 3
 <br>
 # Professional Experience
 
+### Scientist, DIII-D National Tokamak Facility, General Atomics, 2020 - present
+* Simulating plasma power exhaust in current and next-generation tokamaks
+* Iterating on design concepts and modeling for plasma divertors using target shaping and closure
+* Exploring magnetic geometries to optimize power dissipation
+* Implementing higher accuracy in models including plasma drifts
 
-### Scientist, Center for Energy Research, UC San Diego, 2012 - present
+### Scientist, Center for Energy Research, UC San Diego, 2012 - 2020
 * Designed experiments on plasma-material interactions to push fusion energy closer to a viable energy source
 * Pioneered novel diagnostics for materials and plasmas, including laser induced desorption spectroscopy and fast imaging
 * Led investigations on plasma-material interactions such as hydrogen storage in materials and the impact of extreme heat pulses on surface morphology 
@@ -111,7 +117,6 @@ order: 3
 * Lead Navigator of Adventure Guides, a family camping group with the YMCA
 * Multiple science outreach events with the Center for Energy Research at UC San Diego
 * Volunteer at the Fleet Science Center
-* Surfer, snowboarder, travel junkie
 
 <a href="#top">Go to top</a>
 
