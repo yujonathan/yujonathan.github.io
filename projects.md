@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-description: Science, machine learning, data analytics, and coding
+description: Science, plasma physics, machine learning, and coding
 image: assets/images/fusion_plasma2.jpg
 nav-menu: true
 show_tile: true
