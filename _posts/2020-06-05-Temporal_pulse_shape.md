@@ -14,7 +14,7 @@ Plasma instabilities in a fusion power plant will heat material surfaces up to t
 <figure>
   <img src="{{site.url}}/assets/images/75_3.PNG" alt="tungsten laser damage" height="75%" width = "75%"/>
  <figcaption>
-Figure 1 - Microsope images of tungsten after 100 laser pulses, showing the striking differences in surface roughening and melting due to various temporal pulse shapes. Images in each row show laser spots exposed to the same absorbed energy density, and different pulse shapes are shown in each column. The peak surface temperature reached during a heating pulse and the root-mean-squared surface roughness are shown at the top of each image.
+Figure 1 - Microsope images of tungsten after 100 laser pulses, showing the striking differences in surface roughening and melting due to various temporal pulse shapes. Images in each row show laser spots exposed to the same absorbed energy density, and different pulse shapes are shown in each column. The peak surface temperature reached during a heating pulse and the root-mean-squared surface roughness are shown at the top of each image. Pulse widths varied from 1.25 to 2.5 ms.
  </figcaption>
 </figure>
 </center>
