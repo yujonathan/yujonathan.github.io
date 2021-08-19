@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The absurd efficiency of transfer learning for computer vision
+title: The absurd efficiency of transfer learning for computer vision and machine learning
 description: A deep residual convolutional neural network was trained to identify barrelling waves!
 
 image: assets/images/Barrel.PNG
