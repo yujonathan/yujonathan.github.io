@@ -10,11 +10,14 @@ image: assets/images/75_1.PNG
 ### The question
 Plasma instabilities in a fusion power plant will heat material surfaces up to their melting point and beyond, leading to potential mechanical failure and radical changes to thermomechanical properties. Thermal testing of materials is usually done off-line using lasers or electron beams to simulate plasma instabilities, by matching certain parameters such as energy density and pulse width. However, these heat sources usually do not match the temporal (time) shape of the actual plasma instabilities, which caused me to question how the temporal shape of the heat pulse affects the extent of material damage and peak surface temperature reached during the pulse. Some people thought I was wasting my time because after all, doesn't conservation of energy say that the energy per pulse is what matters in terms of material heating?
 
-
-![Tungsten laser damage]({{ site.url | absolute_path}}/assets/images/75_3.PNG){:height="75%" width="75%"}
+<center>
+<figure>
+  <img src="{{site.url}}/assets/images/75_3.PNG" alt="tungsten laser damage" height="75%" width = "75%"/>
  <figcaption>
 Figure 1 - Microsope images of tungsten after 100 laser pulses, showing the striking differences in surface roughening and melting due to various temporal pulse shapes. Images in each row show laser spots exposed to the same absorbed energy density, and different pulse shapes are shown in each column. The peak surface temperature reached during a heating pulse and the root-mean-squared surface roughness are shown at the top of each image.
  </figcaption>
+</figure>
+</center>
 <p>&nbsp;</p>
 
 
