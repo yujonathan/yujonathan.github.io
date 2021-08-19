@@ -14,24 +14,38 @@ Plasma instabilities in a fusion power plant will heat material surfaces up to t
 <figure>
   <img src="{{site.url}}/assets/images/75_3.PNG" alt="tungsten laser damage" height="75%" width = "75%"/>
  <figcaption>
+   <em>
 Figure 1 - Microsope images of tungsten after 100 laser pulses, showing the striking differences in surface roughening and melting due to various temporal pulse shapes. Images in each row show laser spots exposed to the same absorbed energy density, and different pulse shapes are shown in each column. The peak surface temperature reached during a heating pulse and the root-mean-squared surface roughness are shown at the top of each image. Pulse widths varied from 1.25 to 2.5 ms.
+   </em>
  </figcaption>
 </figure>
 </center>
 <p>&nbsp;</p>
 
 
-![Pulse shape]({{ site.url | absolute_path}}/assets/images/75_1.PNG){:height="50%" width="50%"}
+<center>
+<figure>
+  <img src="{{site.url}}/assets/images/75_1.PNG" alt="pulse shape" height="50%" width = "50%"/>
  <figcaption>
+   <em>
  	Figure 2 - (a) Various temporal pulse shapes from a laser are used to heat material, and (b) shows the surface temperature from each type of heat pulse. The peak surface temperatures are significantly different from each other, even though all the heat pulses have the same total energy.
+   </em>
  </figcaption>
+</figure>
+</center>  
 <p>&nbsp;</p>
 
 
-![Pulse shape simulation]({{ site.url | absolute_path}}/assets/images/77_1b.PNG){:height="50%" width="50%"}
+ <center>
+<figure>
+  <img src="{{site.url}}/assets/images/77_1b.PNG" alt="pulse shape simulation" height="50%" width = "50%"/>
  <figcaption>
+   <em>
  	Figure 3 - (a) Finite element simulations of heat pulses from various temporal pulse shapes, and (b) the simulated surface temperature from each type of pulse.
+   </em>
  </figcaption>
+</figure>
+</center>  
 <p>&nbsp;</p>
 
 
