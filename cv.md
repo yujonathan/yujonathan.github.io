@@ -59,7 +59,7 @@ order: 3
 * Exploring magnetic geometries to optimize power dissipation
 * Implementing higher accuracy in computer models including plasma drifts
 
-### Scientist, Center for Energy Research, UC San Diego, 2012 - 2020
+### Scientist, Center for Energy Research, UC San Diego, 2006 - 2020
 * Designed experiments on plasma-material interactions to push fusion energy closer to a viable energy source
 * Pioneered novel diagnostics for materials and plasmas, including laser induced desorption spectroscopy and fast imaging
 * Led investigations on plasma-material interactions such as hydrogen storage in materials and the impact of extreme heat pulses on surface morphology 
