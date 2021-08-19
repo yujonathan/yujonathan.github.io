@@ -9,7 +9,7 @@ order: 3
 
 # Jonathan H. Yu, Ph.D
 
-#### I love finding solutions to tough problems using a multi-disciplinary approach. Some of my specialties are plasma physics, coding, fusion energy, machine learning, lasers, optics, imaging, optical spectroscopy, mass spectrometry, photography, and riding waves. I find the best results come from striking a balance between big-picture thinking, attention to detail, and risk taking.
+#### I love finding solutions to tough problems using a multi-disciplinary approach. Some of my specialties are plasma physics, fusion energy, plasma-material interactions, machine learning, coding, lasers, optics, imaging, optical spectroscopy, material science, computational physics, photography, and riding waves (of course!). I find the best results come from striking a balance between big-picture thinking, attention to detail, and risk taking.
 
 #### My core skills include critical and creative thinking, problem solving, interpersonal skills, Python programming, physics simulations, data analysis, data modeling, data visualization, communication, and collaboration.
 
@@ -33,7 +33,7 @@ order: 3
 * Successfully designed, installed, and wrote analysis code for a fast camera diagnostic at the top U.S. fusion science facility with budget of $120M/year.
 * Developed novel imaging and signal processing techniques and achieved first-ever visible images of a variety of tokamak plasma phenomena.
 * Designed and executed collaborative research projects, and contributed to winning over $10M in grants to perform state of the art physics research.
-* Published over 90 articles in refereed journals and contributed to more than 135 presentations (40 first-author) at international conferences and meetings.
+* Published over 90 articles in refereed journals and contributed to more than 140 presentations at international conferences and meetings.
 
 
 
