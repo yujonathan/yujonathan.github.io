@@ -55,10 +55,14 @@ Actually, the temporal shape **does** have a significant effect due to the diffu
 ### Who cares?
 This work is important because predicting the impact of powerful heat pulses from a fusion plasma is critical to the success and survivability of a fusion power facility. It turns out that plasma instabilites typically have a unique temporal shape, and if the shape is not properly considered during material testing and numerical modeling, all bets are off in terms of predicting what will happen in an actual fusion reactor. The biggest risk is cracking of the wall material, which can lead to a coolant leak, major damage to the reactor vessel, and prolonged reactor shutoff for repairs.
 
-
-![Temperature rise]({{ site.url | absolute_path}}/assets/images/75_2.PNG){:height="50%" width="50%"}
+<center>
+<figure>
+  <img src="{{site.url}}/assets/images/75_2.PNG" alt="temperature rise" height="50%" width = "50%"/>
  <figcaption>
+   <em>
  	Figure 4 - The peak surface temperature rise for different shaped triangular heating pulses is shown as a function of the pulse rise time Tau_r (normalized to the pulse width Tau_s of a square pulse with the same energy and same peak power). The peak surface temperature strongly depends on the shape of the heating pulse. Data points are compared to theory (solid line) and finite element analysis modeling (red circles), and there is general agreement within the uncertainty of the measurements.
+   </em>
  </figcaption>
-
+</figure>
+</center>  
 
