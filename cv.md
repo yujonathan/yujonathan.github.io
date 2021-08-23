@@ -66,7 +66,7 @@ order: 3
 * Developed software for optical spectroscopy, pyrometry, and ion/electron surface analysis
 * Designed, procured, and commissioned high power laser systems for cutting edge material science research
 
-### Co-founder, Cornsoft, 2010 - 2018
+### Co-founder, Cornsoft, 2010 - 2020
 * Designed and developed Smart Seat, the first seating chart and attendance iOS app for teachers which has been used by over 10,000 people
 * Designed and developed PixSort, a photo organization app based on automatic and user-generated metadata tags
 
@@ -81,14 +81,12 @@ order: 3
 * Measured plasma flow with Mach probes and compared with the phase velocity of plasma fluctuations from Langmuir probes for shear/turbulence interaction studies
 * Measured angular distribution of sputtered particles for modeling ion thruster lifetimes
 
-### Consulting, DULY Research Inc., 2001 – 2003
-* Won Phase I ($100,000) and Phase II ($750,000) Department of Energy Small Business Innovation Research (SBIR) grants titled “An Ultra Low Emittance DC/RF Photoelectron Injector,” 2001–2002
-* Wrote proposal for National Institute of Health SBIR grant titled “A Liquid Jet Target for Laser Driven Proton Radiotherapy,” 2001
-
-
 ### Researcher for Doctoral Study, Department of Physics, UCSD, 1999 – 2004
 * Research was published and highlighted by the world's premier physics letter journal *Physical Review Letters*
 * Achieved first observations and measurements of fluid echoes in a pure electron plasma. Wrote code for image analysis and first-principles modeling. Through detailed comparison to theory, explicitly demonstrated the reversible nature of spatial Landau damping, which touched on deep questions regarding the asymmetry of time.
+
+### Consulting, DULY Research Inc., 1998 – 2004
+* Obtained $850,000 in funding from U.S. Department of Energy SBIR grants to research and develop novel concepts for particle accelerator front-end designs
 
 
 
