@@ -68,9 +68,12 @@ These waves are identical to vorticity waves in a 2-dimensional fluid (also call
 </center>
 <p>&nbsp;</p>
 
+### Who cares?
+
+Since phase information must be retained in order for the echo to appear, the echo is a sensitive diagnostic for any process that destroy coherence. There is an analogy between the many-electron system I used and other many-bodied systemes, including quantum systems. Quantum computers rely on quantum coherence in order to properly execute information processing (i.e., in order to properly be a computer), but in reality a quantum system is never perfectly isolated from its environment. Quantum decoherence describes this leaking of information to the environment and it's one of the main obstacles that prevents you from having your own personal quantum computer. It turns out that my work is similar to the [Loschmidt echo](http://www.scholarpedia.org/article/Loschmidt_echo){:target="_blank"}, which has the potential to measure the fidelity of a physical system used for quantum computing.
 
 
-This work was published and highlighted on the webpage of the premier physics letter journal <a href = " {{ site.url }}/assets/publications/4.pdf ">*Physical Review Letters*</a>, and also published in <a href = " {{ site.url }}/assets/publications/5.pdf ">*Physics of Plasmas*</a>.
+My work was published and highlighted on the webpage of the premier physics letter journal <a href = " {{ site.url }}/assets/publications/4.pdf ">*Physical Review Letters*</a>, and also published in <a href = " {{ site.url }}/assets/publications/5.pdf ">*Physics of Plasmas*</a>.
 
 
 <!--
