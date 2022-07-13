@@ -113,7 +113,7 @@ order: 3
 <br>
 # Publications
 
-1.	R. Maurizio, H. Du, A. Gallo, H. Guo, A. Leonard, X. Ma, G. Sinclair, P. Stangeby, D. Thomas, H. Wang, R.S. Wilcox, J.H. Yu, L. Casali, and M.W. Shafer, <a href = " {{ site.url }}/assets/publications/93.pdf ">Numerical assessment of the new V-shape small-angle slot divertor on DIII-D,</a>  submitted to Nuclear Fusion (2021).
+1.	R. Maurizio, H. Du, A. Gallo, H.Y. Guo, A. Leonard, X. Ma, G. Sinclair, P. Stangeby, D.M. Thomas, H. Wang, R.S. Wilcox, J.H. Yu, L. Casali, and M.W. Shafer, <a href = " {{ site.url }}/assets/publications/93.pdf ">Numerical assessment of the new V-shape small-angle slot divertor on DIII-D,</a> Nuclear Fusion 61, 116042 (2021).
 
 2.	M.I. Patino, D. Nishijima, M. Tokitani, D. Nagata, J.H. Yu, and R.P. Doerner, <a href = " {{ site.url }}/assets/publications/92.pdf ">Material migration in W and Mo during bubble growth and fuzz formation,</a>  Nuclear Fusion 61, 076001 (2021).
 
