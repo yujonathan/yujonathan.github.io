@@ -96,13 +96,13 @@ order: 3
 
 * **$245,000** Department of Energy (DOE) grant for the development of laser-based material diagnostics (2019)
 * **$200,000** DOE grant for research and development of laser induced desorption spectroscopy (LIDS) (2017)
-* **$2,200,000** DOE grant to perform novel research on the interactions between plasma and materials at UC San Diego, contributor (2018)
-* **$1,900,000** DOE grant for plasma-material interaction research at UC San Diego, contributor (2015)
+* **$6.6M** DOE grant to perform novel research on the interactions between plasma and materials at UC San Diego, contributor (2018)
+* **$5.7M** DOE grant for plasma-material interaction research at UC San Diego, contributor (2015)
 * **$400,000** grant from ITER, the international experimental fusion reactor, to test techniques for the safe operation of a fusion power plant using novel ideas for in-situ cleaning of reactor wall materials (2013)
-* **$1,700,000** DOE grant for plasma-material interaction research at UC San Diego, contributor (2012)
-* **$1,500,000** DOE grant for plasma-material interaction research at UC San Diego, contributor (2009)
+* **$5.1M** DOE grant for plasma-material interaction research at UC San Diego, contributor (2012)
+* **$4.5M** DOE grant for plasma-material interaction research at UC San Diego, contributor (2009)
 * **$200,000** American Recovery and Reinvestment Act grant for development of fast imaging hardware, experimental design and execution, analysis, and programming analysis software at the DIII-D national fusion facility (2009)
-* **$1,400,000** DOE grant for plasma-material interaction research at UC San Diego, contributor (2006)
+* **$4.2M** DOE grant for plasma-material interaction research at UC San Diego, contributor (2006)
 * **$850,000** Small Business Innovation Research (SBIR) Phase I and Phase II grants (2001-2002)
 
 
