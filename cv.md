@@ -113,7 +113,11 @@ order: 3
 <br>
 # Publications
 
-1.	R. Maurizio, H. Du, A. Gallo, H.Y. Guo, A. Leonard, X. Ma, G. Sinclair, P. Stangeby, D.M. Thomas, H. Wang, R.S. Wilcox, J.H. Yu, L. Casali, and M.W. Shafer, <a href = " {{ site.url }}/assets/publications/93.pdf ">Numerical assessment of the new V-shape small-angle slot divertor on DIII-D,</a> Nuclear Fusion 61, 116042 (2021).
+1.  X. Ma, H.Q. Wang, H.Y. Guo, A. Leonard, R. Maurizio, E.T. Meier, J. Ren, P.C. Stangeby, G. Sinclair, D.M. Thomas, R.S. Wilcox, J.H. Yu, J. Watkins,  <a href = " {{ site.url }}/assets/publications/95.pdf ">ExB flow driven detachment bifurcation in a closed slot divertor in the DIII-D Tokamak,</a> submitted to Nuclear Fusion, 2022. 
+
+3.  M.E. Fenstermacher for the DIII-D Team, J. Yu, et al., <a href = " {{ site.url }}/assets/publications/94.pdf ">DIII-D research advancing the physics basis for optimizing the tokamak approach to fusion energy,</a> Nuclear Fusion 62, 042024 (2022).
+
+3.	R. Maurizio, H. Du, A. Gallo, H.Y. Guo, A. Leonard, X. Ma, G. Sinclair, P. Stangeby, D.M. Thomas, H. Wang, R.S. Wilcox, J.H. Yu, L. Casali, and M.W. Shafer, <a href = " {{ site.url }}/assets/publications/93.pdf ">Numerical assessment of the new V-shape small-angle slot divertor on DIII-D,</a> Nuclear Fusion 61, 116042 (2021).
 
 2.	M.I. Patino, D. Nishijima, M. Tokitani, D. Nagata, J.H. Yu, and R.P. Doerner, <a href = " {{ site.url }}/assets/publications/92.pdf ">Material migration in W and Mo during bubble growth and fuzz formation,</a>  Nuclear Fusion 61, 076001 (2021).
 
