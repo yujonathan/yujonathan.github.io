@@ -54,6 +54,7 @@ order: 3
 # Professional Experience
 
 ### Scientist, DIII-D National Tokamak Facility, General Atomics, 2020 - present
+* Leader of DIII-D Divertor Science and Innovation physics area
 * Simulating plasma power exhaust in current and next-generation tokamaks
 * Iterating on design concepts and modeling for plasma divertors using target shaping and closure
 * Exploring magnetic geometries to optimize power dissipation
