@@ -114,7 +114,9 @@ order: 3
 <br>
 # Publications
 
-1.  R. Maurizio, A.W. Leonard, A.G. McLean, M.W. Shafer, P.C. Stangeby, D. Thomas, J.H. Yu, <a href = " {{ site.url }}/assets/publications/96.pdf ">Modeling deep slot divertor concepts at DIII-D using SOLPS-ITER with drifts,</a> Nuclear Materials and Energy 34, 101356 (2023).
+1.  D.B. Weisberg, J. Leuer, J. McClenaghan, J.H. Yu, et al., <a href = " {{ site.url }}/assets/publications/97.pdf ">An Integrated Design Study for an Advanced Tokamak to Close Physics Gaps in Energy Confinement and Power Exhaust,</a> Fusion Science and Technology 79, 320-344 (2023).
+
+2.  R. Maurizio, A.W. Leonard, A.G. McLean, M.W. Shafer, P.C. Stangeby, D. Thomas, J.H. Yu, <a href = " {{ site.url }}/assets/publications/96.pdf ">Modeling deep slot divertor concepts at DIII-D using SOLPS-ITER with drifts,</a> Nuclear Materials and Energy 34, 101356 (2023).
  
 4.  X. Ma, H.Q. Wang, H.Y. Guo, A. Leonard, R. Maurizio, E.T. Meier, J. Ren, P.C. Stangeby, G. Sinclair, D.M. Thomas, R.S. Wilcox, J.H. Yu, J. Watkins,  <a href = " {{ site.url }}/assets/publications/95.pdf ">ExB flow driven electron temperature bifurcation in a closed slot divertor with ion BxgradB away from the X-point in the DIII-D Tokamak,</a> Nuclear Fusion 62, 126048 (2022). 
 
