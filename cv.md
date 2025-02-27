@@ -114,13 +114,23 @@ order: 3
 <br>
 # Publications
 
-1.  D.B. Weisberg, J. Leuer, J. McClenaghan, J.H. Yu, et al., <a href = " {{ site.url }}/assets/publications/97.pdf ">An Integrated Design Study for an Advanced Tokamak to Close Physics Gaps in Energy Confinement and Power Exhaust,</a> Fusion Science and Technology 79, 320-344 (2023).
+1.  D.M. Thomas, J.H. Yu, et al., <a href = " {{ site.url }}/assets/publications/102.pdf ">Experiment-modeling studies comparing energy dissipation in the DIII-D SAS and SAS-VW divertors,</a> Nuclear Materials and Energy 42, 101903 (2025).
+  
+3.  J.H. Yu, R.S. Wilcox, R. Maurizio, A. Holm, S.L. Allen, W. Choi, M.E. Fenstermacher, M. Groth, A.W. Leonard, A.G. McLean, F. Scotti, M.W. Shafer, <a href = " {{ site.url }}/assets/publications/101.pdf ">Simulations of divertor designs that spatially separate power and particle exhaust using mid-leg divertor particle pumping,</a> Nuclear Materials and Energy 41, 101826 (2024).
+  
+4.  R. Maurizio, A.W. Leonard, J.H. Yu, J. Harrison, K. Verhaegh, N. Lonigro, A.G. McLean, <a href = " {{ site.url }}/assets/publications/100.pdf ">SOLPS-ITER modeling of divertor detachment in MAST-U’s super-X double null configuration and comparison to experiment,</a> Nuclear Materials and Energy 41, 101736 (2024).
+  
+5.  C.T. Holcomb, J. Yu, DIII-D Team, et al., <a href = " {{ site.url }}/assets/publications/99.pdf ">DIII-D research to provide solutions for ITER and fusion energy,</a> Nuclear Fusion 11, 112003 (2024).
+  
+6.  R. Maurizio, D. Thomas, J.H. Yu, et al., <a href = " {{ site.url }}/assets/publications/98.pdf ">Experiments on plasma detachment in a V-shaped slot divertor in the DIII-D tokamak,</a> Nuclear Fusion 64, 086048 (2024).
+  
+7.  D.B. Weisberg, J. Leuer, J. McClenaghan, J.H. Yu, et al., <a href = " {{ site.url }}/assets/publications/97.pdf ">An Integrated Design Study for an Advanced Tokamak to Close Physics Gaps in Energy Confinement and Power Exhaust,</a> Fusion Science and Technology 79, 320-344 (2023).
 
-2.  R. Maurizio, A.W. Leonard, A.G. McLean, M.W. Shafer, P.C. Stangeby, D. Thomas, J.H. Yu, <a href = " {{ site.url }}/assets/publications/96.pdf ">Modeling deep slot divertor concepts at DIII-D using SOLPS-ITER with drifts,</a> Nuclear Materials and Energy 34, 101356 (2023).
+8.  R. Maurizio, A.W. Leonard, A.G. McLean, M.W. Shafer, P.C. Stangeby, D. Thomas, J.H. Yu, <a href = " {{ site.url }}/assets/publications/96.pdf ">Modeling deep slot divertor concepts at DIII-D using SOLPS-ITER with drifts,</a> Nuclear Materials and Energy 34, 101356 (2023).
  
-4.  X. Ma, H.Q. Wang, H.Y. Guo, A. Leonard, R. Maurizio, E.T. Meier, J. Ren, P.C. Stangeby, G. Sinclair, D.M. Thomas, R.S. Wilcox, J.H. Yu, J. Watkins,  <a href = " {{ site.url }}/assets/publications/95.pdf ">ExB flow driven electron temperature bifurcation in a closed slot divertor with ion BxgradB away from the X-point in the DIII-D Tokamak,</a> Nuclear Fusion 62, 126048 (2022). 
+9.  X. Ma, H.Q. Wang, H.Y. Guo, A. Leonard, R. Maurizio, E.T. Meier, J. Ren, P.C. Stangeby, G. Sinclair, D.M. Thomas, R.S. Wilcox, J.H. Yu, J. Watkins,  <a href = " {{ site.url }}/assets/publications/95.pdf ">ExB flow driven electron temperature bifurcation in a closed slot divertor with ion BxgradB away from the X-point in the DIII-D Tokamak,</a> Nuclear Fusion 62, 126048 (2022). 
 
-5.  M.E. Fenstermacher for the DIII-D Team, J. Yu, et al., <a href = " {{ site.url }}/assets/publications/94.pdf ">DIII-D research advancing the physics basis for optimizing the tokamak approach to fusion energy,</a> Nuclear Fusion 62, 042024 (2022).
+10.  M.E. Fenstermacher for the DIII-D Team, J. Yu, et al., <a href = " {{ site.url }}/assets/publications/94.pdf ">DIII-D research advancing the physics basis for optimizing the tokamak approach to fusion energy,</a> Nuclear Fusion 62, 042024 (2022).
 
 3.	R. Maurizio, H. Du, A. Gallo, H.Y. Guo, A. Leonard, X. Ma, G. Sinclair, P. Stangeby, D.M. Thomas, H. Wang, R.S. Wilcox, J.H. Yu, L. Casali, and M.W. Shafer, <a href = " {{ site.url }}/assets/publications/93.pdf ">Numerical assessment of the new V-shape small-angle slot divertor on DIII-D,</a> Nuclear Fusion 61, 116042 (2021).
 
